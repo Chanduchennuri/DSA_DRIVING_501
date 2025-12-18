@@ -1,0 +1,32 @@
+TIER 1: FOUNDATION (master these first):
+------------------------------------------------------------
+Array Traversal (basic loops, index manipulation)
+Two Pointers (opposite ends, same direction)
+Sliding Window (fixed/variable size)
+Hash Tables (frequency maps, lookups)
+Binary Search (classic, rotated, peak finding)
+Sorting Algorithms (merge, quick, heap)
+------------------------------------------------------------
+TIER 2: INTERMEDIATE SAUCE:
+------------------------------------------------------------
+Stack/Queue (monotonic stack, deque tricks)
+Linked List (two pointer, reversal, cycle detection)
+Trees (DFS, BFS, traversals)
+Dynamic Programming (1D, 2D, memoization)
+Greedy (interval scheduling, huffman vibes)
+Heap/Priority Queue (top K, merge streams)
+------------------------------------------------------------
+TIER 3: ADVANCED WIZARDRY
+------------------------------------------------------------
+Graphs (topological sort, shortest path, union find)
+Backtracking (permutations, combinations, sudoku)
+Trie (prefix trees, word games)
+Segment Trees/Fenwick Trees (range queries)
+String Algorithms (KMP, rolling hash, manacher)
+-----------------------------------------------------------
+TIER 4: COMPETITIVE PROGRAMMING FLEX
+-----------------------------------------------------------
+Advanced DP (bitmask, digit, tree DP)
+Network Flow (max flow, bipartite matching)
+Heavy-Light Decomposition
+Suffix Arrays/Trees
